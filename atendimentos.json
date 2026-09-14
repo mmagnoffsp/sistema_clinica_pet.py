@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "pet": "Maycom",
+        "tutor": "Carlos",
+        "servico": "Consulta ",
+        "valor_servico": 200.0,
+        "valor_produtos": 25.0,
+        "total": 225.0,
+        "pagamento": "Pix"
+    }
+]

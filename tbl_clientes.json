@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Carlos Magno",
+        "telefone": "11 941507706",
+        "cep": "03649030",
+        "endereco": "Rua tobiaras 228 Ap 001 Terreo"
+    },
+    {
+        "id": 2,
+        "nome": "Genoaldo Gama",
+        "telefone": "11941362093",
+        "cep": "03649030",
+        "endereco": "Rua Tobiaras, Vila Esperança - São Paulo/SP"
+    }
+]

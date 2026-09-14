@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nome": "Carlos",
+        "telefone": "11941507706",
+        "endereco": "Rua Tobiaras 228 Vila Esperança Apto 001 T",
+        "cep": "03649030"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Rosa",
+        "telefone": "11941507706",
+        "endereco": "Rrua tobiaras 316 ap 32",
+        "cep": "03649030"
+    }
+]
